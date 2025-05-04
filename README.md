@@ -34,6 +34,13 @@ EDM_Sentiment_Analysis_Project/
    jupyter notebook notebooks/Final_Copy_of_EDM.ipynb
    ```
 
+
+You can also run the code directly from the Google collab link
+
+```
+https://colab.research.google.com/drive/1VeY2005SQm2uE8Q8sCgQkNgrj7i6USJE?usp=sharing
+```
+
 ## Output
 
 - Generates sentiment plots (e.g., scatter plot of Vader sentiment scores).
