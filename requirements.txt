@@ -1,3 +1,12 @@
 pandas
 matplotlib
+pyLDAvis
+emoji
+contractions
+textblob
+gensim
+vaderSentiment
 nltk
+scikit-learn
+asyncpraw
+clean-text
